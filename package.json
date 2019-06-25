@@ -1,0 +1,15 @@
+{
+  "name": "inline-cart-documentation",
+  "version": "1.0.0",
+  "description": "Inline Cart usage examples",
+  "main": "index.html",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//2Checkout/inline-cart-documentation.git"
+  },
+  "author": "Dorian Floarea",
+  "license": "MIT"
+}
